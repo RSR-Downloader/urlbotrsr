@@ -51,12 +51,12 @@ async def echo(bot, update):
             await update.reply_text(
                 text="**Channel hi follow ve rawh**",
                 reply_markup=InlineKeyboardMarkup([
-                    [ InlineKeyboardButton(text="Join Our Channel", url=f"https://t.me/{update_channel}")]
+                    [ InlineKeyboardButton(text="Join Our Channel", url=f"https://t.me/mizolibrary")]
               ])
             )
             return
         except Exception:
-            await update.reply_text("Something Wrong. Contact my Support Group")
+            await update.reply_text("Engemaw diklo a awm")
             return
     logger.info(update.from_user)
     url = update.text
