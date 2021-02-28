@@ -31,9 +31,9 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [TG Bots Updates](https://telegram.dog/TGBotsz)
-* [InFoTel Paid Apps](https://telegram.dog/InFoTel14)
-* [InFoTel Group](https://telegram.dog/InFoTelGroup)
+* [TG Bots Updates](https://telegram.dog/mizolibrary)
+* [InFoTel Paid Apps](https://telegram.dog/mizolibrary)
+* [InFoTel Group](https://telegram.dog/mp3andvideodownloader)
 
 ## Credits, and Thanks to
 
@@ -41,7 +41,7 @@ python bot.py
 * [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
 * [Yoily](https://telegram.dog/YoilyL) for his [UploaditBot](https://telegram.dog/UploaditBot)
 
-- For FeedBack and Suggestions, please feel free to say in [InFoTel Group](https://telegram.dog/InFoTelGroup)
+- For FeedBack and Suggestions, please feel free to say in [RSR](https://telegram.dog/mp3andvideodownloader)
 
 #### LICENSE
 - GPLv3
