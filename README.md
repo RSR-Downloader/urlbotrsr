@@ -31,9 +31,9 @@ python bot.py
 ```
 ## Our Telegram Channel and Group
 
-* [TG Bots Updates](https://telegram.dog/mizolibrary)
-* [InFoTel Paid Apps](https://telegram.dog/mizolibrary)
-* [InFoTel Group](https://telegram.dog/mp3andvideodownloader)
+* [RSR Bots Updates](https://telegram.dog/mizolibrary)
+* [RSR channel](https://telegram.dog/mizolibrary)
+* [RSR Group](https://telegram.dog/mp3andvideodownloader)
 
 ## Credits, and Thanks to
 
